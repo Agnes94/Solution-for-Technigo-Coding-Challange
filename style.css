@@ -1,0 +1,31 @@
+/* Example styling of a h1 element */
+h1 {
+  color: white;
+  text-align: center;
+  background-color: #476685;
+}
+
+h2 {
+  color: #476685;
+  text-align: left;
+  background-color: white;
+
+}
+
+h3 {
+  color: #666666;
+  text-align: left;
+  background-color:	white;
+}
+
+p {
+  color: #9fbfdf;
+  text-align: justify;
+  border: solid;
+  background-color: white;
+}
+
+li {
+  color: #99334d;
+  text-align: left;
+}
